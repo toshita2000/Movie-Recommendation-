@@ -1,2 +1,2 @@
 # Movie-Recommendation-
-Movie Recommendation using KNN and NLP-TFID vectoriZation with deployment on streamlit
+Movie Recommendation using KNN and NLP-TFID vectorization with deployment on streamlit
